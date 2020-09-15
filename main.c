@@ -1,3 +1,8 @@
+//Author: Hoang Bui hhb5051@psu.edu
+//Collaborator: Josh Hornickle jph6089@psu.edu 
+//Collaborator: Harshvardhan Singh  hms5805@psu.edu 
+//Collaborator: Mitch Scavo mrs631@psu.edu 
+
 #include <stdio.h>
 #include <readline/readline.h> 
 #include <stdlib.h> 
